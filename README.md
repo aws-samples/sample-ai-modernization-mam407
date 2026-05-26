@@ -1,16 +1,14 @@
 # AgentCore Resources — Workshop Modules
 
+> [!NOTE]
+> **🚀 Coming Soon:** A future update will add a local test environment with a deployable CloudFormation template, allowing you to run the full workshop independently.
+
+> [!IMPORTANT]
+> **Interested in running this workshop?** If you are an AWS customer and would like to conduct this workshop, please reach out to your AWS account team.
+
 This folder contains two Jupyter notebook modules that extend the [AI Modernization Workshop (MAM407)](https://catalog.workshops.aws/ai-modernization/en-US). These notebooks serve as open-source reference material for hosting MCP servers and AI agents on **Amazon Bedrock AgentCore Runtime**.
 
 The workshop walks through the full end-to-end setup (infrastructure, knowledge bases, etc.), while the resources here are meant to be customized with your own DynamoDB table names, Knowledge Base IDs, or any other data sources you're connecting to.
-
-## Prerequisites
-
-- AWS CLI configured with valid credentials
-- Python 3.9+
-- Jupyter Notebook (`pip install jupyter`)
-- A deployed CloudFormation stack (via `cloudformation/deploy-complete.sh`) with DynamoDB tables and product data
-- Completion of [Module 2 of the workshop](https://catalog.workshops.aws/ai-modernization/en-US) (Bedrock Knowledge Base) for the `search_product_knowledge` tool
 
 ## Shared Resources
 
