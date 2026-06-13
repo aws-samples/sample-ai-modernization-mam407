@@ -4,7 +4,7 @@
 > **🚀 Coming Soon:** A future update will add a local test environment with a deployable CloudFormation template, allowing you to run the full workshop independently.
 
 > [!IMPORTANT]
-> **Interested in running this workshop?** If you are an AWS customer and would like to conduct this workshop, please reach out to your AWS account team.
+> **Interested in running this workshop?** If you are an AWS customer and would like to conduct this workshop, please reach out to your AWS account team or AWS Partner team.
 
 This folder contains two Jupyter notebook modules that extend the [AI Modernization Workshop (MAM407)](https://catalog.workshops.aws/ai-modernization/en-US). These notebooks serve as open-source reference material for hosting MCP servers and AI agents on **Amazon Bedrock AgentCore Runtime**.
 
